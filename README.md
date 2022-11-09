@@ -18,6 +18,6 @@ I'm currently working on deepening my automation and deployment skills. So these
 
 "The secret of getting ahead is getting started" ~Mark Twain
 
-![alt text](https://github.com/schultzl/schultzl/blackpuzzle_banner.png?raw=true)
+![blackpuzzle](https://github.com/schultzl/schultzl/blackpuzzle_banner.png?raw=true)
 
 Find me on LinkedIn: https://www.linkedin.com/in/larissa-schultze/
