@@ -1,6 +1,6 @@
-## Hi, I'm Larissa. My specialty is solving puzzles. :jigsaw: 
+## Hi, I'm Larissa! 
 
-... so no wonder I love programming.
+### My specialty is solving puzzles... so no wonder I love programming. :jigsaw:
 I've worked with several technologies, but my favourite are the following:
 
 - Python
